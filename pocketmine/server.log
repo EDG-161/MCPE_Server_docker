@@ -1,0 +1,43 @@
+2024-05-26 [01:44:18.928] [Server thread/INFO]: Loading server configuration
+2024-05-26 [01:44:18.934] [Server thread/INFO]: Selected English (eng) as the base language
+2024-05-26 [01:44:18.937] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.20.80
+2024-05-26 [01:44:18.938] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-05-26 [01:44:18.944] [Server thread/INFO]: This server is running PocketMine-MP version 5.15.0
+2024-05-26 [01:44:18.944] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-05-26 [01:44:19.265] [Server thread/INFO]: Loading resource packs...
+2024-05-26 [01:44:19.404] [Server thread/INFO]: Preparing world "world"
+2024-05-26 [01:44:19.429] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-05-26 [01:44:20.367] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-05-26 [01:44:20.368] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-05-26 [01:44:20.397] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-05-26 [01:44:20.397] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-05-26 [01:44:20.398] [Server thread/INFO]: Default game type: Survival Mode
+2024-05-26 [01:44:20.398] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-05-26 [01:44:20.398] [Server thread/INFO]: Done (1.471s)! For help, type "help" or "?"
+2024-05-26 [01:44:20.851] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-05-26 [01:44:32.151] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-05-26 [01:44:33.207] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-05-26 [01:44:35.108] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-05-26 [01:44:36.436] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-05-26 [01:44:36.845] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-05-26 [01:44:37.453] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-05-26 [01:44:37.748] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-05-26 [01:44:38.173] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-05-26 [01:44:38.480] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-05-26 [01:44:38.719] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-05-26 [01:46:15.488] [Server thread/INFO]: [NetworkSession: 187.191.38.254 3042] Session opened
+2024-05-26 [01:46:15.837] [Server thread/INFO]: [NetworkSession: 187.191.38.254 3042] Player: EduG161
+2024-05-26 [01:46:16.513] [Server thread/INFO]: EduG161[/187.191.38.254:3042] logged in with entity id 1 at (world, 256, 73, 256)
+2024-05-26 [01:46:23.340] [Server thread/INFO]: EduG161 joined the game
+2024-05-26 [01:47:02.393] [Server thread/INFO]: [EduG161: Set own game mode to Creative Mode]
+2024-05-26 [01:48:38.924] [Server thread/INFO]: [EduG161: Set the world spawn point to (402, 67, 280)]
+2024-05-26 [01:48:48.083] [Server thread/INFO]: [EduG161: Set own game mode to Survival Mode]
+2024-05-26 [01:51:55.802] [Server thread/INFO]: [EduG161: Set game difficulty to 2]
+2024-05-26 [01:51:59.958] [Server thread/INFO]: EduG161 left the game
+2024-05-26 [01:51:59.963] [Server thread/INFO]: [NetworkSession: EduG161] Session closed: Client disconnected
+2024-05-26 [01:52:14.608] [Server thread/INFO]: [NetworkSession: 187.191.38.254 3042] Session opened
+2024-05-26 [01:52:14.967] [Server thread/INFO]: [NetworkSession: 187.191.38.254 3042] Player: EduG161
+2024-05-26 [01:52:15.553] [Server thread/INFO]: EduG161[/187.191.38.254:3042] logged in with entity id 34 at (world, 385.5985, 67, 248.9525)
+2024-05-26 [01:52:19.378] [Server thread/INFO]: EduG161 joined the game
+2024-05-26 [01:54:23.500] [Server thread/INFO]: EduG161 left the game
+2024-05-26 [01:54:23.504] [Server thread/INFO]: [NetworkSession: EduG161] Session closed: Client disconnected
